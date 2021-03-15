@@ -10,7 +10,7 @@
 2. 自学了:HTML,CSS,JS
 ## 这是单行代码：
     var a = 3;
-    console.log('sum');
+    console.log(a);
     
 ## 这是多行代码：
 ```javascript
