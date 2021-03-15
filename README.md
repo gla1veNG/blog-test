@@ -9,8 +9,9 @@
 1. 学过c语言；
 2. 自学了:HTML,CSS,JS
 ## 这是单行代码：
-    `var a = 3;`     
-
+    var a = 3;
+    console.log('sum');
+    
 ## 这是多行代码：
 ```javascript
 var a = 3;
